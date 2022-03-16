@@ -32,18 +32,18 @@ void loop()
   var5 = digitalRead(botao5);
  
    if(var1){
-    Serial.println("TRUCO");
+    Serial.println("cristiano ronaldo");
   }
    if(var2){
-  Serial.println("RECEBA");  
+  Serial.println("truco");  
   }
    if(var3){
-  Serial.println("para de apertar"); 
+  Serial.println("neymar"); 
   }
    if(var4){
-  Serial.println("meteu essa?"); 
+  Serial.println("amem"); 
   }
    if(var5){
-  Serial.println("Jorge Jesus no Cruzeiro");  
+  Serial.println("messi");  
   }
 }
